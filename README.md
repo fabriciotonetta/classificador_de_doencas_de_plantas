@@ -51,16 +51,15 @@ Em vez de treinar uma rede neural do zero — o que exigiria milhões de imagens
 
 ## 📁 Estrutura do Repositório
 
+```
 classificador_de_doencas_de_plantas/
-
-│
 ├── notebook/
-│  ├── classificador_doencas_plantas.ipynb   ← código completo
-│  └── evolucao_treinamento.png              ← gráfico de resultados
-│
-├── data/                                      ← instruções de acesso aos dados
+│   ├── classificador_doencas_plantas.ipynb
+│   └── evolucao_treinamento.png
+├── data/
 ├── README.md
-└── diario-de-desenvolvimento.md               ← histórico do processo de criação
+└── diario-de-desenvolvimento.md
+```
 
 ## 🚀 Como Executar Este Projeto
 
